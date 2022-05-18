@@ -15,6 +15,8 @@
 
 ## [Algorithms for efficient inference in convolutional neural networks](https://pure.tudelft.nl/ws/portalfiles/portal/96451845/doctoral_dissertation.pdf)
 
+degree of doctor dissertation @2021
+
 ![image](https://user-images.githubusercontent.com/29032883/168947986-e9ebbc72-0406-4e1d-a514-a4b569e7ad36.png)
 
 ### Acceleration
@@ -61,6 +63,8 @@ Current network engineering considers both the accuracy and efficiency of neural
 
 
 ## [深度学习模型轻量化(上)](https://www.cnblogs.com/wujianming-110117/p/12898599.html) [深度学习模型轻量化（下）](https://www.cnblogs.com/wujianming-110117/p/12898602.html)
+
+posted @ 2020-05-16 06:47
 
 移动端模型必须满足**模型尺寸小、计算复杂度低、电池耗电量低、下发更新部署灵活**等条件。
 
