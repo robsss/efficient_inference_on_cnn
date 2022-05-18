@@ -1,7 +1,7 @@
 # efficient_inference_on_cnn
 
 
-## cs231n 2017 lecture 15 
+## [cs231n 2017 lecture 15](http://cs231n.stanford.edu/slides/2017/cs231n_2017_lecture15.pdf) 
 
 ### Algorithms for efficient inference
 
